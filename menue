@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+   
+    <title>menue</title>
+</head>
+<body>
+    <h2>Chose from the Menue</h2>
+
+   
+    <nav>
+        <ul>
+            <li><a href="home.html">Home</a></li>
+            <li><a href="activities.html">Activities</a></li>
+            <li><a href="my-activities.html">My Activities</a></li>
+            <li><a href="manage.html">Manage Profile</a></li>
+            <li><a href="logout.html">Logout</a></li>
+        </ul>
+    </nav>
+
+   <!-- <p>Your profile details will be shown here!</p>
+
+    <p><a href="home.html">Back to Home</a></p>-->
+</body>
+</html>
