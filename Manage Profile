@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
+    <title>Manage Profile</title>
+</head>
+<body>
+    <h2>Manage Profile</h2>
+
+    <h3>Profile Information</h3>
+    <form>
+        <label>First Name:</label>
+        <input type="text" value="roua" required>
+
+        <label>Last Name:</label>
+        <input type="text" value="wadah" required>
+
+        <label>Student ID:</label>
+        <input type="hidden" value="443204565" readonly>
+
+        <label>Major:</label>
+        <input type="text" value=" Softwere engnering" required>
+
+        <label>Phone Number:</label>
+        <input type="tel" value="0501234567" required>
+
+        <label>Email:</label>
+        <input type="email" value="rouawadah.gmail.com" required>
+
+        <label>Change Password:</label>
+        <input type="password">
+
+        <label>Profile Photo:</label>
+        <input type="file" accept="image/*">
+
+        <button type="submit">Save Changes</button>
+    </form>
+
+    <h3>Delete Account</h3>
+    <p>Warning: Deleting your account is permanent and cannot be undone.</p>
+    <button>Delete Account</button>
+
+    <p><a href="home.html">Back to Home</a></p>
+</body>
+</html>
