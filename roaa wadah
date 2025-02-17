@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>university Club</title>
+</head>
+
+
+
+<body>
+
+<div class="main_page">
+        <h2>welecome </h2>
+        <a href="Club_register.html"><button>Club register</button></a>
+        <a href="Student_register.html"><button>Student register</button></a>
+        <a href="Login.html"><button>Log in</button></a>
+    </div>
+
+</body>
+</html>
