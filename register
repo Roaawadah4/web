@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+</head>
+<body>
+    <h2>Register</h2>
+    <form>
+        <label>First Name:</label>
+        <input type="text" required>
+<br>
+        <label>Last Name:</label>
+        <input type="text" required>
+<br>
+        <label>Student ID:</label>
+        <input type="text" required>
+<br>
+        <label>Major:</label>
+        <input type="text" required>
+<br>
+        <label>Phone Number:</label>
+        <input type="tel" required>
+<br>
+        <label>Email:</label>
+        <input type="email" required>
+<br>
+        <label>Password:</label>
+        <input type="password" required>
+<br>
+        <label>Profile Photo (Optional):</label>
+        <input type="file" accept="image/*">
+<br>
+        <button type="submit">Register</button>
+		
+    </form>
+    <p>Already have an account? <a href="login.html">Login here</a></p>
+    <p><a href="index.html">Back to Home</a></p>
+</body>
+</html>
